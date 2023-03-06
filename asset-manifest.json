@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/alphaTest1/static/css/main.073c9b0a.css",
+    "main.js": "/alphaTest1/static/js/main.d74d6fc4.js",
+    "static/js/787.ee63b678.chunk.js": "/alphaTest1/static/js/787.ee63b678.chunk.js",
+    "static/media/hero-carousel-1.jpg": "/alphaTest1/static/media/hero-carousel-1.9e5032971f7ec5e4ac56.jpg",
+    "static/media/hero-carousel-2.jpg": "/alphaTest1/static/media/hero-carousel-2.8b805addaa594f21a8e8.jpg",
+    "static/media/hero-carousel-3.jpg": "/alphaTest1/static/media/hero-carousel-3.359369d77930e809a4b3.jpg",
+    "index.html": "/alphaTest1/index.html",
+    "main.073c9b0a.css.map": "/alphaTest1/static/css/main.073c9b0a.css.map",
+    "main.d74d6fc4.js.map": "/alphaTest1/static/js/main.d74d6fc4.js.map",
+    "787.ee63b678.chunk.js.map": "/alphaTest1/static/js/787.ee63b678.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d74d6fc4.js"
+  ]
+}
