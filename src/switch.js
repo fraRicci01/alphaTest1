@@ -2,7 +2,7 @@ import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from './pages';
 import About from './pages/about';
-import LogInForm from "./pages/loginForm";
+import LogInForm from "./pages/signin";
 
 
 const router = createBrowserRouter([
